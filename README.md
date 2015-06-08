@@ -13,8 +13,11 @@ Point release 3.0.0: 04/10/2014
 # EduSec 4.0.0 #
 Point release 4.0.0: 31/05/2015
 
+# EduSec 4.1.0 #
+Point release 4.1.0: 08/06/2015
 
-Edusec - School / College Management Software
+
+Edusec - College Management Software
 ====================================
 
 EduSec has a suite of selective modules specifically tailored to the requirements of education industry. EduSec is engineered and designed considering range of management functions within university. With the use of EduSec, staff can be more accountable as it helps to know the performance of each department in just few seconds. 
